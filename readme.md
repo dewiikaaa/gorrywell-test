@@ -1,3 +1,7 @@
+<h1>Information</h1>
+<div>1. This project using framework express JS</div>
+<div>2. Database system using mongodb</div>
+<div>&nbsp;</div>
 <h1>Environment Set Up</h1>
 <div>1. Database server is mongodb and it must have replica set</div>
 <div>2. set your database configuration in config.env</div>
